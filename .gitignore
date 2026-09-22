@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Compilados
+*.class
+
+# Sistema
+.DS_Store
+Thumbs.db
